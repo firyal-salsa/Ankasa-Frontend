@@ -68,7 +68,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Gustiana882/front-ticketing.git
+git clone https://github.com/firyal-salsa/front-ticketing.git
 ```
 
 2. Install dependencies
