@@ -24,6 +24,17 @@
       <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
     </th>
   </tr>
+  <tr>
+    <th>
+      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197499/Ankasa/6_gek7be.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197503/Ankasa/5_pxafdr.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197501/Ankasa/7_ktiuff.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+  </tr>
 </table>
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
