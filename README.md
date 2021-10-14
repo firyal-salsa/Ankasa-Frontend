@@ -1,7 +1,5 @@
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" /></p>
 
-<p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout</p>
-
 <table>
   <tr>
     <th>
@@ -29,7 +27,8 @@
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
 </p>
-
+<p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout</p>
+<br />
 
 ## 💻 Built with
 
