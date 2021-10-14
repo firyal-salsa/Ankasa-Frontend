@@ -1,4 +1,3 @@
-<h1>TEST</h1>
 <h1 align="center">
   App Ticketing
 </h1>
@@ -85,10 +84,10 @@ npm start
 
 
 ### `Backend Ticketing Repository`
- <a href="https://github.com/Gustiana882/back-ticketing" target="blank">https://github.com/Gustiana882/back-ticketing</a>
+ <a href="https://github.com/firyal-salsa/back-ticketing" target="blank">https://github.com/firyal-salsa/back-ticketing</a>
 
 ```bash
-git clone https://github.com/Gustiana882/back-ticketing.git
+git clone https://github.com/firyal-salsa/back-ticketing.git
 ```
 
 ### Contributors
