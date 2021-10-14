@@ -1,8 +1,4 @@
-<h1 align="center">
-  App Ticketing
-</h1>
-
-<p align="center"><img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="200px" alt="Arkademylogo.svg" /></p>
+<p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" /></p>
 
 <p align="center">
     <a href="https://www.arkademy.com/" target="blank">Our Website</a>
