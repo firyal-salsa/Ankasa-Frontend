@@ -1,12 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" /></p>
 
-<p align="center">
-    <a href="https://www.arkademy.com/" target="blank">Our Website</a>
-    ·
-    <a href="https://www.arkademy.com/auth/signup">Join With Us</a>
-    ·
-</p>
-<hr/>
+<p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout</p>
 
 <table>
   <tr>
@@ -34,17 +28,21 @@
 </table>
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/issues">Report Bug</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/pulls">Request Feature</a>
 </p>
 
 
 ## 💻 Built with
 
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
-[![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
+<div class="d-flex">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634191162/tech%20stack/react_xh8uvp.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634191268/tech%20stack/npm_hhcd86.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225494/tech%20stack/postgresql_r813wd.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225451/tech%20stack/redis_agonqb.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225449/tech%20stack/nginx_sapsks.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225445/tech%20stack/aws-ec2_xkv0gc.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225443/tech%20stack/docker-icon_hamwmv.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225440/tech%20stack/jenkins_xhlzk0.svg" width="50px" height="50px">
+</div>
 
 
 ## 🛠️ Installation Steps
