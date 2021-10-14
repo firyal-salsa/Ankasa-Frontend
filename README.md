@@ -24,28 +24,6 @@
       <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
     </th>
   </tr>
- <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/135545396-22189df7-9823-4224-835b-e5c7ca8b1c07.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828785-7ebe5ce7-a784-4519-8aee-9bb26d7a274c.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th> 
-      <img src="https://user-images.githubusercontent.com/55304067/134828799-123f485f-b013-4670-864e-ff508fbe3638.png" width="300px" alt="Arkademylogo.svg" />
-   </th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828834-40eb194d-1e2a-481e-addc-b20ed18a01e6.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/135542198-cf3140c1-05f2-49cd-9fff-96b02950f3ff.jpg" width="300px" alt="Arkademylogo.svg" />
-    </th>
-  </tr>
 </table>
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
