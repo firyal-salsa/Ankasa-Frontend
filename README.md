@@ -1,4 +1,7 @@
-<p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" /></p>
+<p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" />
+</p>
+
+<p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634282728/arkademy_ufgxux.png" width="200px" alt="Arkademylogo.svg" /></p>
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
 </p>
