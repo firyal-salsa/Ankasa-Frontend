@@ -37,18 +37,7 @@
       <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197501/Ankasa/9_kyh5hb.png" width="300px" alt="Arkademylogo.svg" />
     </th>
     <th>
-      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197501/Ankasa/7_ktiuff.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197501/Ankasa/10_bcz18x.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634197501/Ankasa/10_bcz18x.png"" width="300px" alt="Arkademylogo.svg" />
     </th>
   </tr>
 </table>
