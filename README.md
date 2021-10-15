@@ -2,9 +2,6 @@
 </p>
 
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634282728/arkademy_ufgxux.png" width="200px" alt="Arkademylogo.svg" /></p>
-<p align="center">
-    <a href="https://ankasa.online/" target="blank">View Demo</a>
-</p>
 <p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout. To find out more information about this website please see below</p>
 <br />
 
@@ -80,13 +77,17 @@ npm start
 ```
 
 
+                                                                                                                                   
 ### `Backend Ticketing Repository`
  <a href="https://github.com/firyal-salsa/back-ticketing" target="blank">https://github.com/firyal-salsa/back-ticketing</a>
 
 ```bash
 git clone https://github.com/firyal-salsa/back-ticketing.git
 ```
-
+                                                                        
+## View Demo
+<a href="http://www.ankasa.online/">http://www.ankasa.online/</a>
+                                                                        
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
   <img src="https://avatars.githubusercontent.com/u/83713045?s=60&amp;v=4" class="avatar avatar-user" alt="calvinrahmat" width="38" height="38">
