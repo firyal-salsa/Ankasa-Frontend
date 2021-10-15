@@ -2,8 +2,10 @@
 <p align="center">
     <a href="https://ankasa.online/" target="blank">View Demo</a>
 </p>
-<p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout</p>
+<p>Ankasa is a web application for booking plane tickets. This website has features to login, sign up, forgot password, home, view a list of flight schedules, book plane tickets, edit user profiles, and logout. To find out more information about this website please see below</p>
 <br />
+
+## ScreenShoot
 <table>
   <tr>
     <th>
