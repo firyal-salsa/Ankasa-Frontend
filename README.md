@@ -86,7 +86,7 @@ git clone https://github.com/firyal-salsa/back-ticketing.git
 ```
                                                                         
 ## View Demo
-<a href="http://www.ankasa.online/">http://www.ankasa.online/</a>
+<a href="http://www.ankasa.online/">http://www.ankasa.online/</a> or https://ankasaapp.netlify.app/
                                                                         
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
