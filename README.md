@@ -1,4 +1,4 @@
-<p align=center> ✈️ Ankasa ✈️ </p>
+<h3 style="color:blue" align=center> ✈️ Ankasa ✈️ </h3>
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634238048/Ankasa/Ankasa_t2yy48.png" height="200px" width="300px" alt="ankasa" />
 </p>
