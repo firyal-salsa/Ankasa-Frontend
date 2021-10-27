@@ -72,19 +72,19 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/firyal-salsa/front-ticketing.git
+git clone https://github.com/firyal-salsa/Ankasa-Frontend.git
 ```
 
 2. Install dependencies
 
 ```bash
-npm install
+yarn
 ```
 
 3. Run the app
 
 ```bash
-npm start
+yarn start
 ```
 
 
@@ -93,7 +93,7 @@ npm start
 https://github.com/firyal-salsa/Ankasa-Backend
 
 ```bash
-git clone https://github.com/firyal-salsa/back-ticketing.git
+git clone https://github.com/firyal-salsa/Ankasa-Backend.git
 ```
                                                                         
 ## View Demo
@@ -112,3 +112,4 @@ git clone https://github.com/firyal-salsa/back-ticketing.git
 <p align="center">
 Developed with ❤️ in Indonesia 	🇮🇩
 </p>
+  
