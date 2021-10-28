@@ -95,7 +95,7 @@ git clone https://github.com/firyal-salsa/Ankasa-Backend.git
 ```
                                                                         
 ## View Demo
-<a href="http://www.ankasa.online/">http://www.ankasa.online/</a> or https://ankasaapp.netlify.app/
+https://ankasa.online/
                                                                         
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
